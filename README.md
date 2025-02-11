@@ -20,7 +20,7 @@ This repository demonstrates my ability to design and implement **ETL pipelines*
   - `simple_etl_dag.py`: A basic ETL workflow orchestrated with Airflow.
   - `complex_etl_dag.py`: Demonstrates advanced capabilities with task groups, branching, and dynamic task generation.
 - **Technologies**: Apache Airflow, Python.
-- **Location**: See the [Airflow/](Airflow/) directory.
+- **Location**: See the [Airflow/](Airflow/Dags/) directory.
 
 ### 3. SQL Queries
 - **Description**: SQL scripts for querying relational databases, including data aggregation and analysis.
