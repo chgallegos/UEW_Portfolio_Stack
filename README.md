@@ -4,7 +4,7 @@
 
 ## Purpose
 
-This repository demonstrates my ability to design and implement **ETL pipelines**, **workflow orchestration** using **Apache Airflow**, **data integration workflows**, **SQL**, **Python**, **Jupiter Notebook for Data Transformation**, **Pandas**, amongst others while ensuring data quality. It highlights my technical expertise in handling data systems and my understanding of scalable, efficient workflows.
+This repository demonstrates my ability to design and implement **ETL pipelines**, **workflow orchestration** using **Apache Airflow**, **data integration workflows**, **SQL**, **Python**, **Jupiter Notebook for Data Transformation**, **Pandas** and other python libraries, amongst others while ensuring data quality. It highlights my technical expertise in handling data systems and my understanding of scalable, efficient workflows.
 
 ---
 
@@ -16,9 +16,8 @@ This repository demonstrates my ability to design and implement **ETL pipelines*
 - **Location**: See the [Python Example 1](Python/ETL_Example_1/etl_pipeline.py) and [Python Example 2](Python/ETL_Example_2/README.md) file for details.
 
 ### 2. Apache Airflow DAGs
-- **Description**: Workflow orchestration using Airflow to automate, schedule, and monitor ETL processes.
-  - `simple_etl_dag.py`: A basic ETL workflow orchestrated with Airflow.
-  - `complex_etl_dag.py`: Demonstrates advanced capabilities with task groups, branching, and dynamic task generation.
+- **Description**: Workflow orchestration using Airflow to automate, schedule, and monitor ETL processes. This is a repository containing the DAGS created during completion of [**UDEMY: The Complete Hands-On Introduction to Apache Airflow**](https://www.linkedin.com/in/gallegoschris89/overlay/1739203338912/single-media-viewer/?profileId=ACoAAA1k_l4B7iVqTvtg4PT0KM9wC5S80zAiFY0)
+ 
 - **Technologies**: Apache Airflow, Python.
 - **Location**: See the [Airflow](Airflow/Dags/) directory.
 
