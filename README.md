@@ -16,8 +16,7 @@ This repository demonstrates my ability to design and implement **ETL pipelines*
 - **Location**: See the [Python Example 1](Python/ETL_Example_1/etl_pipeline.py) and [Python Example 2](Python/ETL_Example_2/README.md) file for details.
 
 ### 2. Apache Airflow DAGs
-- **Description**: Workflow orchestration using Airflow to automate, schedule, and monitor ETL processes. This is a repository containing the DAGS created during completion of [**UDEMY: The Complete Hands-On Introduction to Apache Airflow**](https://www.linkedin.com/in/gallegoschris89/overlay/1739203338912/single-media-viewer/?profileId=ACoAAA1k_l4B7iVqTvtg4PT0KM9wC5S80zAiFY0)
- 
+- **Description**: Workflow orchestration using Airflow to automate, schedule, and monitor ETL processes. This is a repository containing the DAGS created during completion of [**UDEMY: The Complete Hands-On Introduction to Apache Airflow**](https://www.linkedin.com/in/gallegoschris89/overlay/1739203338912/single-media-viewer/?profileId=ACoAAA1k_l4B7iVqTvtg4PT0KM9wC5S80zAiFY0) 
 - **Technologies**: Apache Airflow, Python.
 - **Location**: See the [Airflow](Airflow/Dags/) directory.
 
