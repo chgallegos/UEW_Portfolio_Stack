@@ -4,7 +4,7 @@
 
 ## Purpose
 
-This repository demonstrates my ability to design and implement **ETL pipelines**, **workflow orchestration** using **Apache Airflow**, and **data integration workflows** while ensuring data quality. It highlights my technical expertise in handling data systems and my understanding of scalable, efficient workflows.
+This repository demonstrates my ability to design and implement **ETL pipelines**, **workflow orchestration** using **Apache Airflow**, **data integration workflows**, **SQL**, **Python**, **Jupiter Notebook for Data Transformation**, **Pandas**, amongst others while ensuring data quality. It highlights my technical expertise in handling data systems and my understanding of scalable, efficient workflows.
 
 ---
 
