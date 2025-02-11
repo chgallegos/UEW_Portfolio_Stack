@@ -13,7 +13,7 @@ This repository demonstrates my ability to design and implement **ETL pipelines*
 ### 1. ETL Pipeline
 - **Description**: A complete ETL pipeline that extracts data from an API, transforms it using `pandas`, validates the data, and loads it into a PostgreSQL database.
 - **Technologies**: Python, SQLAlchemy, PostgreSQL, pandas.
-- **Location**: See the [etl_pipeline/](etl_pipeline/) directory for details.
+- **Location**: See the [etl_pipeline/](Python ETL Example 1/) directory for details.
 
 ### 2. Apache Airflow DAGs
 - **Description**: Workflow orchestration using Airflow to automate, schedule, and monitor ETL processes.
