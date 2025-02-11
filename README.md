@@ -25,7 +25,7 @@ This repository demonstrates my ability to design and implement **ETL pipelines*
 ### 3. SQL Queries
 - **Description**: SQL scripts for querying relational databases, including data aggregation and analysis.
 - **Technologies**: SQL, PostgreSQL.
-- **Location**: See the [SQL/](SQL/) directory.
+- **Location**: See the [SQL/](/SQL/Example%201/Queries.sql) directory.
 
 ### 4. Data Validation
 - **Description**: Scripts for ensuring data quality, validating schema conformity, and handling missing values.
