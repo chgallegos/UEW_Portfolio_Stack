@@ -35,7 +35,7 @@ This repository demonstrates my ability to design and implement **ETL pipelines*
 ### 5. Exploratory Data Analysis (EDA)
 - **Description**: Jupyter Notebook showcasing data visualization and insights generation.
 - **Technologies**: Python, pandas, matplotlib, Jupyter Notebook.
-- **Location**: See the [notebooks/](notebooks/) directory.
+- **Location**: See the [Exploratory Data Analysis/](Python/EDA_Example_1/EDA.py) directory.
 
 ---
 
