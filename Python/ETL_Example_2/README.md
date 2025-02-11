@@ -40,7 +40,7 @@ The performance relative to other school's was not substantially affected becaus
 
 #### School Summary calculated from 10th - 12th grade data
 
-![Screenshot]https://github.com/chgallegos/school_district_analysis/blob/main/Resources/school_summary_excluding_9th_%20grade.png)
+![Screenshot](https://github.com/chgallegos/school_district_analysis/blob/main/Resources/school_summary_excluding_9th_%20grade.png)
 
 #### Performance Including 9th grade
 
