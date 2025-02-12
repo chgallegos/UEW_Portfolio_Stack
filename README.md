@@ -23,7 +23,7 @@ This repository demonstrates my ability to design and implement **ETL pipelines*
 ### 3. SQL Queries
 - **Description**: SQL scripts for querying relational databases, including data aggregation and analysis.
 - **Technologies**: SQL, PostgreSQL.
-- **Location**: See the [SQL Example 1](/SQL/Example%201/Queries.sql) and a repository containing the SQL queries created during completion of [**UDEMY: SQL - MySQL for Data Analytics and Business Intelligence**](https://www.udemy.com/certificate/UC-75952da0-b935-4750-895e-90594aac629a/) Including [Stored Procedures]() and [Table Joins](). 
+- **Location**: See the [SQL Example 1](/SQL/Example%201/Queries.sql) and a repository containing the SQL queries created during completion of [**UDEMY: SQL - MySQL for Data Analytics and Business Intelligence**](https://www.udemy.com/certificate/UC-75952da0-b935-4750-895e-90594aac629a/) Including [Stored Procedures](/SQL/Example%202/coursework/employees_exercise/STORED%20ROUTINES.sql) and [Table Joins](/SQL/Example%202/coursework/employees_exercise/JOINS.sql). 
 
 ### 4. Data Validation
 - **Description**: Scripts for ensuring data quality, validating schema conformity, and handling missing values.
