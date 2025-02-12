@@ -23,7 +23,7 @@ This repository demonstrates my ability to design and implement **ETL pipelines*
 ### 3. SQL Queries
 - **Description**: SQL scripts for querying relational databases, including data aggregation and analysis.
 - **Technologies**: SQL, PostgreSQL.
-- **Location**: See the [SQL](/SQL/Example%201/Queries.sql) example.
+- **Location**: See the [SQL Example 1](/SQL/Example%201/Queries.sql) and a repository containing the SQL queries created during completion of [**UDEMY: SQL - MySQL for Data Analytics and Business Intelligence**](https://www.udemy.com/certificate/UC-75952da0-b935-4750-895e-90594aac629a/) Including [Stored Procedures]() and [Table Joins](). 
 
 ### 4. Data Validation
 - **Description**: Scripts for ensuring data quality, validating schema conformity, and handling missing values.
@@ -36,10 +36,3 @@ This repository demonstrates my ability to design and implement **ETL pipelines*
 - **Location**: See the [Exploratory Data Analysis](Python/EDA_Example_1/EDA.py) directory.
 
 ---
-
-## Running Airflow DAGs
-
-1. **Install Airflow**:
-   Follow the [official installation guide](https://airflow.apache.org/docs/apache-airflow/stable/installation/index.html) or use the requirements file:
-   ```bash
-   pip install apache-airflow
